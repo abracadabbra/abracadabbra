@@ -4,16 +4,27 @@
 <img src="https://img.shields.io/badge/-abracadabbra-0D1117?style=for-the-badge&logo=github&logoColor=bb9af7&labelColor=0D1117" />
 
 ```
-  ╭──────────────────────────────────────────────────╮
-  │                                                  │
-  │   ‣ shen tao · zju                               │
-  │   ‣ python · typescript · java · c++             │
-  │   ‣ ai & vibe coding                             │
-  │                                                  │
-  │   > ship fast. break nothing.                    │
-  │   > leave the code better than you found it.     │
-  │                                                  │
-  ╰──────────────────────────────────────────────────╯
+  ╔═══════════════════════════════════════════════════════════════════╗
+  ║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+  ║  ▓                                                           ▓  ║
+  ║  ▓   ┌─ abracadabbra@github ─────────────────────────────┐  ▓  ║
+  ║  ▓   │                                                    │  ▓  ║
+  ║  ▓   │  λ whoami                                          │  ▓  ║
+  ║  ▓   │  shen tao · zhejiang university                    │  ▓  ║
+  ║  ▓   │                                                    │  ▓  ║
+  ║  ▓   │  λ cat skills.toml                                 │  ▓  ║
+  ║  ▓   │  langs = ["python", "typescript", "java", "c++"]   │  ▓  ║
+  ║  ▓   │  focus = "ai & vibe coding"                        │  ▓  ║
+  ║  ▓   │                                                    │  ▓  ║
+  ║  ▓   │  λ echo $CREED                                     │  ▓  ║
+  ║  ▓   │  ship fast. break nothing.                         │  ▓  ║
+  ║  ▓   │  leave the code better than you found it.          │  ▓  ║
+  ║  ▓   │                                                    │  ▓  ║
+  ║  ▓   │  λ █                                               │  ▓  ║
+  ║  ▓   └────────────────────────────────────────────────────┘  ▓  ║
+  ║  ▓                                                           ▓  ║
+  ║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+  ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
