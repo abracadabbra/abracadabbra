@@ -10,14 +10,15 @@
 <table align="center" width="90%">
   <tr>
     <td>
-      <div style="background:#1a1b26;border:2px solid #bb9af7;border-radius:8px;padding:4px;font-family:Consolas,Monaco,monospace">
-        <div style="background:#16161e;border-radius:6px 6px 0 0;padding:8px 14px">
-          <span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#f7768e;margin-right:6px"></span>
-          <span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#e0af68;margin-right:6px"></span>
-          <span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#9ece6a;margin-right:10px"></span>
-          <span style="color:#565f89;font-size:13px">abracadabbra@github:~</span>
+      <div style="background:#1a1b26;border-radius:12px;box-shadow:0 0 40px rgba(187,154,247,0.15),0 0 80px rgba(187,154,247,0.05);font-family:Consolas,Monaco,monospace;overflow:hidden">
+        <div style="background:linear-gradient(90deg,#bb9af7,#7aa2f7,#9ece6a);padding:2px"></div>
+        <div style="padding:8px 16px;background:#16161e">
+          <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#f7768e;margin-right:5px"></span>
+          <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#e0af68;margin-right:5px"></span>
+          <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#9ece6a;margin-right:10px"></span>
+          <span style="color:#565f89;font-size:13px">abracadabbra@github ~ /</span>
         </div>
-        <div style="padding:20px 24px;color:#c0caf5;font-size:15px;line-height:2">
+        <div style="padding:24px 32px;color:#c0caf5;font-size:15px;line-height:2">
           <span style="color:#bb9af7">λ</span> <span style="color:#9ece6a">whoami</span><br/>
           <span style="color:#c0caf5">&nbsp;&nbsp;shen tao · zhejiang university</span><br/><br/>
           <span style="color:#bb9af7">λ</span> <span style="color:#9ece6a">cat</span> <span style="color:#7aa2f7">skills.toml</span><br/>
