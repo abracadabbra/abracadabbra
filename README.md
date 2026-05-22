@@ -22,21 +22,26 @@
 
 ## <img src="https://media.giphy.com/media/WUlplムMPQIi/giphy.gif" width="30"> About Me
 
-```python
-class Abracadabbra:
-    def __init__(self):
-        self.name = "Shen Tao"
-        self.university = "Zhejiang University (ZJU)"
-        self.languages = ["Python", "TypeScript", "Java", "C++"]
-        self.current_focus = "AI & Vibe Coding"
-        self.looking_for = "Interesting projects & collaborations"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
-
-me = Abracadabbra()
-me.say_hi()
-```
+<pre>
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                                                              ║
+  ║   👋  Hey there! I'm <b>Shen Tao</b>                              ║
+  ║                                                              ║
+  ║   🎓  Zhejiang University (ZJU)                              ║
+  ║                                                              ║
+  ║   💻  Languages                                              ║
+  ║       ┌─────────────────────────────────────────────────┐    ║
+  ║       │  Python · TypeScript · Java · C++               │    ║
+  ║       └─────────────────────────────────────────────────┘    ║
+  ║                                                              ║
+  ║   🔥  Current Focus: <b>AI & Vibe Coding</b>                       ║
+  ║                                                              ║
+  ║   🌱  Looking for: Interesting projects & collaborations     ║
+  ║                                                              ║
+  ║   🚀  "Code is poetry, and every commit tells a story."      ║
+  ║                                                              ║
+  ╚══════════════════════════════════════════════════════════════╝
+</pre>
 
 ---
 
