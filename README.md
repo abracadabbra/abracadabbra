@@ -1,32 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=dark&color=0:0D1117,50:6e40c9,100:0D1117&height=200&section=header&text=abracadabbra&fontSize=80&fontAlignY=35&desc=%20%20hacker%20%7C%20builder%20%7C%20dreamer&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
+<!-- HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=500&height=80&lines=abracadabbra" />
 
 ```
-┌─────────────────────────────────────────────────┐
-│  $ whoami                                       │
-│  > Shen Tao · ZJU · AI & Vibe Coding            │
-│                                                 │
-│  $ cat skills.txt                               │
-│  > Python · TypeScript · Java · C++             │
-│                                                 │
-│  $ echo $MISSION                                │
-│  > Build things that matter. Ship fast. Break   │
-│    nothing. Leave the code better than you      │
-│    found it.                                    │
-└─────────────────────────────────────────────────┘
+  ╭──────────────────────────────────────────────────╮
+  │                                                  │
+  │   ‣ shen tao · zju                               │
+  │   ‣ python · typescript · java · c++             │
+  │   ‣ ai & vibe coding                             │
+  │                                                  │
+  │   > ship fast. break nothing.                    │
+  │   > leave the code better than you found it.     │
+  │                                                  │
+  ╰──────────────────────────────────────────────────╯
 ```
 
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/AI-412991?style=flat&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![AI](https://img.shields.io/badge/-AI-412991?logo=openai&logoColor=white&style=flat)
 
 </div>
 
@@ -34,9 +31,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abracadabbra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=bb9af7&icon_color=bb9af7&text_color=c0caf5" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abracadabbra&theme=tokyonight&hide_border=true&background=0D1117&stroke=bb9af7&ring=bb9af7&fire=bb9af7&currStreakLabel=bb9af7&sideLabels=c0caf5" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abracadabbra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=bb9af7&text_color=c0caf5" width="36%"/>
+<a href="https://github.com/abracadabbra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abracadabbra&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abracadabbra&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
