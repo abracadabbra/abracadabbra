@@ -1,4 +1,6 @@
-<div align="center">
+<table align="center" style="border:1px solid #3b3f54;border-radius:8px;background:#16161e">
+  <tr>
+    <td align="center" style="padding:24px 40px">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=500&height=70&lines=abracadabbra" alt="Typing SVG" />
 
@@ -21,8 +23,9 @@
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/-AI-412991?style=flat&logo=openai&logoColor=white" />
 
-
-</div>
+    </td>
+  </tr>
+</table>
 
 ---
 
