@@ -6,6 +6,8 @@
 
 <img src="https://raw.githubusercontent.com/abracadabbra/abracadabbra/main/box.svg" alt="Animated Box" width="700" />
 
+<br/>
+
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
