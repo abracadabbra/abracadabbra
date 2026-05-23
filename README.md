@@ -21,11 +21,6 @@
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/-AI-412991?style=flat&logo=openai&logoColor=white" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/github/commits-year/abracadabbra?style=flat&logo=github&color=9ece6a&labelColor=1a1b26" />
-<img src="https://img.shields.io/github/repo-size/abracadabbra?style=flat&logo=github&color=7aa2f7&labelColor=1a1b26" />
-<img src="https://komarev.com/ghpvc/?username=abracadabbra&color=bb9af7&style=flat&label=profile+views" />
 
 </div>
 
