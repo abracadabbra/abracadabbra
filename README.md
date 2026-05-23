@@ -1,18 +1,19 @@
-<table align="center" style="border:1px solid #3b3f54;border-radius:8px;background:#16161e">
-  <tr>
-    <td align="center" style="padding:24px 40px">
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=500&height=70&lines=abracadabbra" alt="Typing SVG" />
 
-<br/>
-
-**shen tao** · zju · **ai & vibe coding**
-
-<br/>
-
-*"ship fast. break nothing. leave the code better than you found it."*
-
-<br/>
+```
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│   ‣ shen tao · zju                                   │
+│   ‣ python · typescript · java · c++                 │
+│   ‣ ai & vibe coding                                 │
+│                                                      │
+│   > ship fast. break nothing.                        │
+│   > leave the code better than you found it.         │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
+```
 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
@@ -23,13 +24,7 @@
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/-AI-412991?style=flat&logo=openai&logoColor=white" />
 
-    </td>
-  </tr>
-</table>
-
 ---
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/abracadabbra/abracadabbra/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
