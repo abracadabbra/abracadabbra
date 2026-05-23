@@ -3,16 +3,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=500&height=70&lines=abracadabbra" alt="Typing SVG" />
 
 ```
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│   ‣ shen tao · zju                                   │
-│   ‣ python · typescript · java · c++                 │
-│   ‣ ai & vibe coding                                 │
-│                                                      │
-│   > ship fast. break nothing.                        │
-│   > leave the code better than you found it.         │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║    ‣ shen tao · zju                                                      ║
+║    ‣ python · typescript · java · c++                                    ║
+║    ‣ ai & vibe coding                                                    ║
+║                                                                          ║
+║    > ship fast. break nothing.                                           ║
+║    > leave the code better than you found it.                            ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
