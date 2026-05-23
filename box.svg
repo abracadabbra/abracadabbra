@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="280" viewBox="0 0 700 280">
+  <defs>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#bb9af7">
+        <animate attributeName="stop-color" values="#bb9af7;#7aa2f7;#bb9af7" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7aa2f7">
+        <animate attributeName="stop-color" values="#7aa2f7;#9ece6a;#7aa2f7" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="692" height="272" rx="12" ry="12" fill="#1a1b26" stroke="url(#glow)" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <text x="40" y="55" font-family="Consolas,Monaco,monospace" font-size="16" fill="#bb9af7">▸ shen tao · zju</text>
+  <text x="40" y="90" font-family="Consolas,Monaco,monospace" font-size="16" fill="#bb9af7">▸ python · typescript · java · c++</text>
+  <text x="40" y="125" font-family="Consolas,Monaco,monospace" font-size="16" fill="#bb9af7">▸ ai &amp; vibe coding</text>
+  <line x1="40" y1="150" x2="660" y2="150" stroke="#3b3f54" stroke-width="1"/>
+  <text x="40" y="185" font-family="Consolas,Monaco,monospace" font-size="16" fill="#9ece6a">&gt; ship fast. break nothing.</text>
+  <text x="40" y="220" font-family="Consolas,Monaco,monospace" font-size="16" fill="#9ece6a">&gt; leave the code better than you found it.</text>
+  <circle cx="640" cy="55" r="5" fill="#f7768e">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="655" cy="55" r="5" fill="#e0af68">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite" begin="0.3s"/>
+  </circle>
+  <circle cx="670" cy="55" r="5" fill="#9ece6a">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite" begin="0.6s"/>
+  </circle>
+</svg>
